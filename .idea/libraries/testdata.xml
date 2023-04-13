@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="testdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tests/testdata/otasigned_v3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/jarsigned.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/deflate_src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/otasigned_v4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/fake-eocd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/otasigned_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/ziptest_valid.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/unsigned.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/random.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/ziptest_dummy-update.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/deflate_tgt.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/otasigned_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tests/testdata/otasigned_v1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
